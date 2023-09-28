@@ -1,7 +1,7 @@
 # Swisstronik Challenge #4
 
 
-Here are your tasks:
+
 Deploy an ERC20 token
 Mint tokens
 Transfer at least 1 of your ERC20 tokens to 0x16af037878a6cAce2Ea29d39A3757aC2F6F7aac1
